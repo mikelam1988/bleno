@@ -15,7 +15,8 @@
   ],
   "scripts": {
     "pretest": "jshint *.js lib/. test/. examples/.",
-    "test": "mocha -R spec test/*.js"
+    "test": "mocha -R spec test/*.js",
+    "install": "npx node-gyp rebuild"
   },
   "repository": {
     "type": "git",
