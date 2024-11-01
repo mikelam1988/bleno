@@ -47,8 +47,7 @@
   },
   "optionalDependencies": {
     "@abandonware/bluetooth-hci-socket": "^0.5.3-10",
-    "bplist-parser": "0.3.2",
-    "xpc-connect": "^3.0.0"
+    "bplist-parser": "0.3.2"
   },
   "types": "./index.d.ts"
 }
